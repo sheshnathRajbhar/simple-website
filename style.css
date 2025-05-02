@@ -12,6 +12,12 @@ body{
     padding: 0 5%;
     
 }
+header>h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    color:#45a049;
+}
 
 
 
@@ -34,6 +40,7 @@ body{
 }   
 .nav-links a:hover{
     text-decoration: underline;
+    color:blue;
 }
 .nav-links a.active{
     text-decoration: underline;
